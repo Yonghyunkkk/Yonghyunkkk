@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yonghyun Kwon</h1>
-<h3 align="center">A computer science student from Hong Kong. Here's some info about me!</h3>
+<h1 align="">Hi 👋, I'm Yonghyun Kwon</h1>
+<h3 align="">A computer science student from Hong Kong. Here's some info about me!</h3>
 
 - 🌱 I’m currently interested in **Web development**
 
 - 📫 How to reach me **u3555562@hku.hk**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
