@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently interested in **Web development**
 
-- 📫 How to reach me: **u3555562@hku.hk**
+- 📫 How to reach me: **u3555562@hku.hk** or **yonghyunkwon98@gmail.com**
 
 
 <p align="left">
