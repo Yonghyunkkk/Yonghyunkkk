@@ -1,5 +1,5 @@
 <h1 align="">Hi, I'm Yonghyun Kwon</h1>
-<h3 align="">A computer science student from The University of Hong Kong. Here's some info about me!</h3>
+<h3 align="">A final year computer science student from The University of Hong Kong. Here's some info about me!</h3>
 
 - I’m currently interested in **front-end** and **back-end** development.
 
