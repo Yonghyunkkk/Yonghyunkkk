@@ -3,6 +3,8 @@
 
 - I’m currently interested in **front-end** and **back-end** development.
 
+- I'm currently studying Java Spring and Spring Boot to deepen my understanding in back-end development.
+
 - How to reach me: **u3555562@hku.hk** or **yonghyunkwon98@gmail.com**
 
 
