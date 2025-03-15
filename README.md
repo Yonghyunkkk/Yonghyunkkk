@@ -1,9 +1,8 @@
 <h1 align="">Hi, I'm Yonghyun Kwon</h1>
-<h3 align="">A final year computer science student from The University of Hong Kong. Here's some info about me!</h3>
 
-- I’m currently interested in **front-end** and **back-end** development.
+- I’m currently interested in **back-end** development.
 
-- How to reach me: **u3555562@hku.hk** or **yonghyunkwon98@gmail.com**
+- How to reach me: **yonghyunkwon98@gmail.com**
 
 
 ---
